@@ -1,6 +1,6 @@
 User Dashboard
 
-[Dashboard Preview](./dashboard.png)
+[Dashboard Preview](./dashboard.png)  
 
 A responsive **User Dashboard** built using **React + Vite**, **Tailwind CSS**, and **Axios**.  
 It dynamically fetches user data from a public API and displays all user details in a clean, modern interface.
@@ -23,8 +23,8 @@ Technologies
 -JavaScript (ES6+)
 
 You How to Run 
-1. Clone this repository  
-   ```bash
+ Clone this repository  
+   In bash
    git clone https://github.com/SRIVIDYAGOLLAMUDI/Dashboard.git
    cd Dashboard
    npm install
